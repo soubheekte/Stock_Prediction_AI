@@ -1,0 +1,22 @@
+Support Vector Machine (SVM) is a powerful algorithm, but there are certain situations where it may not be the best choice:
+
+1. When the number of observations is much larger than the number of features: In this case, other algorithms such 
+as decision trees or random forests may perform better.
+
+2. When the data is highly unbalanced: SVMs are sensitive to the class distribution and may not perform well 
+when one class is much larger than the other.
+
+3. When the data is highly noisy: SVMs can be sensitive to outliers and noise in the data, and may not perform 
+well in such situations.
+
+4. When the data is not separable: If the classes are not separable by a linear or non-linear boundary, then SVM's 
+may not be able to find a good decision boundary.
+
+5. When you have limited computational resources: SVM can be computationally intensive and may not be suitable for 
+problems with large datasets, especially when using non-linear kernels.
+
+6. When you have a lot of categorical variables: SVM's are better suited for numerical variables, and using them 
+with categorical variables may lead to poor results.
+
+7. It is important to note that SVM's are powerful but it's not always the best choice for all kinds of problem, 
+it depends on the nature of the problem and data. It is important to evaluate the performance of the SVM and compare it to other algorithms to determine if it is the best choice for a particular problem.

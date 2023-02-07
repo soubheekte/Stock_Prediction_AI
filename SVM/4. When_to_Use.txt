@@ -1,0 +1,19 @@
+Support Vector Machine (SVM) can be used in a variety of situations, some examples include:
+
+1. When the data has clear linear or non-linear boundaries: SVMs are particularly useful when the classes are well 
+separated and can be distinguished by a linear or non-linear boundary.
+
+2. When the number of features is greater than the number of observations: SVMs can handle high-dimensional data 
+and still maintain good performance.
+
+3. When there is a need for robustness to noise: SVMs are relatively robust to noise and outliers in the data.
+
+4. When there is a need for good generalization: SVMs are known for their ability to generalize well to new, unseen data.
+
+5. When the data is not linearly separable: SVMs can use kernel trick to transform the data into a higher 
+dimensional space, allowing for the creation of complex decision boundaries.
+
+6. When the dataset is large: SVMs can handle large datasets and still achieve good performance.
+
+7. SVMs are not the best choice for all situations, for example, when the number of observations is much larger 
+than the number of features or when the data is highly unbalanced or noisy and other algorithms like Decision Tree or Random Forest may perform better.

@@ -1,0 +1,15 @@
+Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for classification or regression tasks.
+The goal of the SVM algorithm is to find the best decision boundary, or hyperplane, that separates different classes of data.
+This decision boundary is chosen to maximize the margin, which is the distance between the hyperplane and the closest data 
+points on either side.
+
+SVMs can also be used for non-linear classification by applying a kernel function, which transforms the data into a 
+higher-dimensional space. This allows for the creation of more complex decision boundaries. 
+Commonly used kernels include the linear, polynomial, and radial basis function (RBF) kernels.
+
+The SVM algorithm also includes a regularization term, which is used to prevent overfitting. 
+This term is controlled by a parameter called "C", which allows for some misclassification, referred to as soft margin.
+
+SVMs are widely used in various applications such as image classification, bioinformatics, 
+and natural language processing. They are known for their high accuracy, good generalization and ability 
+to handle large datasets.

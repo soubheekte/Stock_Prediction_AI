@@ -1,0 +1,18 @@
+Support Vector Machine (SVM) is a versatile algorithm that can be used in a variety of applications. Some examples include:
+
+1. Image classification: SVMs can be used to classify images based on their features, such as shape and texture.
+
+2. Bioinformatics: SVMs can be used to classify proteins and predict disease outcomes based on gene expression data.
+
+3. Natural language processing: SVMs can be used to classify text documents, such as email spam or sentiment analysis of tweets.
+
+4. Handwriting recognition: SVMs can be used to recognize handwritten characters or digits by learning from labeled examples.
+
+5. Financial prediction: SVMs can be used to predict stock prices or credit risk based on historical financial data.
+
+6. Medical diagnosis: SVMs can be used to diagnose diseases or classify patient outcomes based on demographic and clinical data.
+
+7. Fraud detection: SVMs can be used to detect fraudulent activities based on patterns in financial transactions.
+
+These are a few examples of where SVM's are widely used, it can be applied to any classification problem where the goal 
+is to find a decision boundary that separates different classes of data.

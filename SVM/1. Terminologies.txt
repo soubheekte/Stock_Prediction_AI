@@ -1,0 +1,27 @@
+In SVM, the goal is to find a decision boundary that separates different classes of data. Some terminologies related to SVM include:
+
+1. Hyperplane: The decision boundary found by the SVM algorithm that separates different classes of data.
+
+2. Support Vector: Data points that are closest to the hyperplane and are used to define it.
+
+3. Margin: The distance between the hyperplane and the closest data points on either side. The goal is to maximize the margin.
+
+4. Kernel: A function that transforms the data into a higher-dimensional space, allowing for non-linear decision boundaries. Commonly used kernels include the linear, polynomial, and radial basis function (RBF) kernels.
+
+5. Regularization: The process of adding a penalty term to the optimization problem to prevent overfitting.
+
+6. Soft Margin: An approach that allows for some misclassification, controlled by a regularization parameter C.
+
+
+
+In Support Vector Machines (SVM), the choice of kernel depends on the type of data you are working with. Some commonly used kernels are:
+
+Linear kernel: used when the data is linearly separable.
+
+Polynomial kernel: used when the data is non-linearly separable.
+
+Radial basis function (RBF) kernel: used when there is a non-linear relationship between the features.
+
+Sigmoid kernel: used in binary classification problems where the data is not linearly separable.
+
+Ultimately, the choice of kernel will depend on the nature of your data and the problem you are trying to solve. It is often recommended to try different kernels and use cross-validation to determine the best one for your specific problem.
