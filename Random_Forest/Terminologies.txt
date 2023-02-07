@@ -1,0 +1,21 @@
+Here are some key terms related to Random Forest machine learning:
+
+Decision Tree: a tree-like model used for classification or regression.
+
+Bagging: Bootstrapped Aggregation, a technique used for reducing the variance of decision tree models by training multiple trees on random samples of the data.
+
+Random Subspaces: a feature selection technique used to build multiple decision trees with a random subset of features for each split.
+
+Random Forest: an ensemble learning method that uses multiple decision trees to improve the stability and accuracy of the model.
+
+Out-of-bag (OOB) error: the error rate calculated using the samples not used in training each individual tree in a random forest.
+
+Gini impurity: a measure of the randomness or disorder in a set of data, used to determine the best split at each node of a decision tree.
+
+Entropy: a measure of the amount of information or disorder in a system, used in some decision tree algorithms instead of Gini impurity.
+
+Node: a point in a decision tree where a split is made based on the values of a feature.
+
+Leaf node: a final node in a decision tree that represents a prediction.
+
+Feature Importance: a measure of the contribution of each feature to the prediction of the model, used to rank the importance of features and for feature selection.
