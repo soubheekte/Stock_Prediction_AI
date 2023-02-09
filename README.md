@@ -1,6 +1,6 @@
 # Stock_Prediction_AI
 
-Veterans says Stock Market is the most attractive way of losing money for new investors/trader, especially when the market is volatile. It is estimated by popular opinions that only 5% people is able to make money, other 95% lose money in long run. 
+Veterans says Stock Market is the most attractive way of losing money for new investors/trader, especially when the market is volatile. It is estimated by popular opinions that only 5% people is able to make money, other 95% lose money in long run in Trading. 
 
 In this repository I will try to predict stock pricess on daily basis wwith different types of models and will check which model will predicts with atmost accuracy, consistantly. The Following are the ML models/Techniques which we will do the test:
 
